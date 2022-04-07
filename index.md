@@ -8,7 +8,6 @@
 [youtube](https://www.youtube.com/)
 
 ***
-![ragamuffin!] (https://www.aspcapetinsurance.com/media/2384/fun-facts-about-ragamuffin-cats.jpg)
 
 > this is a blockquote
 > this is a blockquote
