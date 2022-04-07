@@ -1,9 +1,12 @@
 # Heading 1
 ## Heading 2
 **this is bold**
-**this is italic**
+*this is italic*
+
 ***
+
 [youtube](https://www.youtube.com/)
+
 ***
 ![ragamuffin!] (https://upload.wikimedia.org/wikipedia/commons/f/f3/20050922AmarilloRes.jpg)
 
@@ -15,6 +18,7 @@
 * list 
 * list 
 * 
+
 ***
 `this is a code lol`
 ***
