@@ -12,7 +12,6 @@
 > this is a blockquote
 > this is a blockquote
 
-***
 
 * list
 * list 
