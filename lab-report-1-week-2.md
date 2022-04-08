@@ -10,7 +10,7 @@ Optimizing Remote Running.
 ***
 
 ## Installing VScode
-To get started, we would be using the code editor VScode for this course. To download, go to [Visual Studio Code](https://code.visualstudio.com/) and follow the instructions to download your version of the operating system ie. MACOS or Windows. 
+To get started, we would be using the code editor VScode for this course. To download, go to [Visual Studio Code](https://code.visualstudio.com/) and follow the instructions to download for your version of the operating system ie. MACOS or Windows. 
 
 When installed, it should open like this (don’t worry! it might look slightly different on yours depending on your theme and settings): 
 
@@ -96,7 +96,7 @@ Now, we can access the server without entering the password!! yay:
 ***
 ## Optimizing Remote running
 
-Lastly, here are some things that can make running commands more efficient: 
+Lastly, here are some tips that can make running commands more efficient: 
 
 * You can add the commands in quotes at the end of the `ssh` command to directly run it on the remote computer and immediately exit. 
 
