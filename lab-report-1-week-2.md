@@ -10,7 +10,7 @@ Optimizing Remote Running.
 ***
 
 ## Installing VScode
-To get started, we would be using the code editor VScode for this course. To download, go to the [Visual Studio Code](https://code.visualstudio.com/) and follow the instructions to download your version of the operating system ie. MACOS or Windows. 
+To get started, we would be using the code editor VScode for this course. To download, go to [Visual Studio Code](https://code.visualstudio.com/) and follow the instructions to download your version of the operating system ie. MACOS or Windows. 
 
 When installed, it should open like this (don’t worry! it might look slightly different on yours depending on your theme and settings): 
 
