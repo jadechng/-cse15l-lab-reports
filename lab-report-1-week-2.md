@@ -109,6 +109,10 @@ Lastly, here are some tips that can make running commands more efficient:
 
 * You can use up and down arrow keys to recall your previous commands 
 
+***
+
+[link](index.md) back to index page. 
+
 
 
 
