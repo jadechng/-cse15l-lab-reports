@@ -73,6 +73,8 @@ You can compile and run the code on the remote server now:)
 ## Setting SSH key
 As you notice by now, every time we would want to move the files between computers, we would have to enter our password which is time-consuming and tedious. Hence, we use `ssh` keys. 
 
+It creates a public key and a private key. The public key is stored in the server and the private key is sttored on the client (your computer). 
+
 To set it up, enter the command on your computer (client):
 
 `ssh-keygen`
@@ -94,7 +96,7 @@ Now, we can access the server without entering the password!! yay:
 ***
 ## Optimizing Remote running
 
-Here are some things that can make running commands more efficient: 
+Lastly, Here are some things that can make running commands more efficient: 
 
 * You can add the commands in quotes at the end of the `ssh` command to directly run it on the remote computer and immediately exit. 
 
@@ -103,6 +105,9 @@ Here are some things that can make running commands more efficient:
 * You can add semicolons to run multiple commands on the same line
 
 ![image](https://user-images.githubusercontent.com/103202818/162371946-c8fb7c6e-d796-4e28-96b1-8f7a3c79b624.png)
+
+
+* You can use up and down arrow keys to recall your previous commands 
 
 
 
