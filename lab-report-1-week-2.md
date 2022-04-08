@@ -50,7 +50,7 @@ Here is the result I get when I use this command on the remote server: `/home/li
 
 ![image](https://user-images.githubusercontent.com/103202818/162370194-57d29910-111c-48e9-aa65-bdf00f99eb8f.png)
 
-It shows permission denied because I do not have the privileges to enter my peer's server because it's a secure shell.
+It shows permission denied because I do not have the privileges to enter my peer's server and it's a secure shell.
 
 ***
 ## Moving Files with `scp`
