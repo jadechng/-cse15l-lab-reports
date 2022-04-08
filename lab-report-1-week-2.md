@@ -96,7 +96,7 @@ Now, we can access the server without entering the password!! yay:
 ***
 ## Optimizing Remote running
 
-Lastly, Here are some things that can make running commands more efficient: 
+Lastly, here are some things that can make running commands more efficient: 
 
 * You can add the commands in quotes at the end of the `ssh` command to directly run it on the remote computer and immediately exit. 
 
