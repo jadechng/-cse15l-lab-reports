@@ -1,8 +1,7 @@
 # Lab Report 2
 
 ## Code Change 1 
-![image]()
-
+![image]("https://user-images.githubusercontent.com/103202818/164816486-d654dcd5-82ed-4ba0-b976-fa8bf8fc4d25.png">)
 
 ## Code Change 2
 ![image]()
