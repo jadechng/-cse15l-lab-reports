@@ -7,7 +7,7 @@ We made the following code change to account for the infinite loop that arises w
 
 This is the 
 [test file](https://jadechng.github.io/markdown-parser/test-file.md) we used.\
-In the test file, added extra sentences and lines at the back evoke an infinite loop.
+In the test file, we added extra sentences and lines at the back evoke an infinite loop.
 
 
 This is the symptom of the *failure-inducing input* for the original version of the code: 
@@ -15,7 +15,7 @@ This is the symptom of the *failure-inducing input* for the original version of 
 
 As you can see, it throws a OutOfMemoryError exception. This occurs as the original code would continue searching the test file for the next `[` until it runs out of memory, hence causing an infinite loop. 
 
-To solve this, we have added an if statment to break the while loop if the following lines do not contain `[`. 
+To solve this, we have added an if statment to break the while loop by checking if the following lines do not contain `[`. 
 
 
 ## Code Change 2
@@ -28,7 +28,7 @@ This is the [test file](https://jadechng.github.io/markdown-parser/failfile.md) 
 This is the symptom of the *failure-inducing input* for the original version of the code: 
 ![image_error](https://user-images.githubusercontent.com/103202818/164838745-d5cfc8ca-7c2e-472c-86d5-4c232d6c9e50.png)
 
-As you can see, it is StringIndexOutOfBoundsException as the program is unable to find the first open bracket `[` . Hence, to account for this error, in the while loop, we have added an if statment to consider the event that there is no open braket `[` in the file, which would cause the while loop to break, returning an empty ArrayList. 
+As you can see, it throws a StringIndexOutOfBoundsException as the program is unable to find the first open bracket `[` . Hence, to account for this error, in the while loop, we have added an if statment to consider the event that there is no open braket `[` in the file, which would cause the while loop to break, returning an empty ArrayList. 
 
 ## Code Change 3
 
