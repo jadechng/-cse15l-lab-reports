@@ -43,6 +43,17 @@ Using the command `scp -r . cs15lsp22@ieng6.ucsd.edu:~/markdown-parse` we are ab
 ![image](https://user-images.githubusercontent.com/103202818/167029412-c7673d3c-6654-4fc4-abda-02e093dd6340.png)
 ![image](https://user-images.githubusercontent.com/103202818/167029416-bdf5deef-d23f-4553-b6cd-74308f2307d1.png)
 
+
+### Now, I would try to combine scp, ;, and ssh to copy the whole directory and run the tests in one line.
+\
+using the command:\
+`scp -r . cs15lsp22amd@ieng6.ucsd.edu:~/markdown-parse; ssh ieng6 "cd markdown-parse; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"` 
+
+I was able to successfully copy the directory and run the tests in my ieng6 account. 
+
+![image](https://user-images.githubusercontent.com/103202818/167043944-d515b335-7c36-4723-be52-1b76dffe2192.png)
+![image](https://user-images.githubusercontent.com/103202818/167043966-84a89818-82b9-4a8d-adaf-9723a9d32c4d.png)
+
 ***
 [link](index.md) back to index page. 
 
