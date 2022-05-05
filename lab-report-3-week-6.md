@@ -19,15 +19,16 @@ I have created a file called 'testfile' in the directory of my desktop and used 
 ## Setup Github Access from ieng6
 
 ### The public key is stored under settings in my Github uder account: 
-![image](https://user-images.githubusercontent.com/103202818/166864339-ce5d3214-7bde-4fab-9144-502b32cb3480.png)
+![image](https://user-images.githubusercontent.com/103202818/167040723-baed5706-864e-4c1f-a2e6-ffbd5db148f5.png)
 
-### The private key is stored on my laptop under `.ssh` as "id_ed25519"
-![image](https://user-images.githubusercontent.com/103202818/166864360-84eab54f-d0cc-480c-8e4e-3a89ca9f52bd.png)
+### The private key is stored on my laptop under `.ssh` as "id_rsa.pub"
+![image](https://user-images.githubusercontent.com/103202818/167040843-8a87b6f3-1be2-4d45-99f9-3faef5402614.png)
 
-### I modified a tester file I created and used `git` commands to commit and push a change to 
-![image](https://user-images.githubusercontent.com/103202818/166864373-903ae391-569b-4ce1-a3b9-4d1e66093698.png)
+### I created a new .txt file `a.txt` and used `git` commands to commit and push a change to origin
+![image](https://user-images.githubusercontent.com/103202818/167040938-f81ff4a3-52ca-45f6-9c3a-8bf51c02dec4.png)
+![image](https://user-images.githubusercontent.com/103202818/167040945-3cfb6f1d-6f5a-4a2a-a4b1-d5dc3191d4bb.png)
 
-the [link](https://github.com/jadechng/test/blob/main/labreport3test.md) to the the resulting commit.
+the [link](https://github.com/jadechng/test) to the the resulting commit. There is now a new a.txt file.
 
 ***
 
