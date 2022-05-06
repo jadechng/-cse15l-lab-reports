@@ -1,6 +1,6 @@
 # Lab Report 3
 
-## Streamlining ssh Configuration
+## 1. Streamlining ssh Configuration
 
 ### using text editor to edit config file:
 ![image](https://user-images.githubusercontent.com/103202818/166837800-1ed6f561-af84-48e1-9bc8-ebb8dcb74e7d.png)
@@ -16,7 +16,7 @@ I have created a file called 'testfile' in the directory of my desktop and used 
 
 ***
 
-## Setup Github Access from ieng6
+## 2. Setup Github Access from ieng6
 
 By creating a new SSH key between Github and ieng6, we can access Github through the ineg6 account.
 
@@ -34,7 +34,7 @@ the [link](https://github.com/jadechng/test) to the the resulting commit. There 
 
 ***
 
-## Copy whole directories with `scp -r`
+## 3. Copy whole directories with `scp -r`
 Using the command `scp -r . cs15lsp22@ieng6.ucsd.edu:~/markdown-parse` we are able to copy whole directories into the ieng6 account.
 
 ### copying markdown-parser directory into my ieng6 account:
