@@ -30,7 +30,7 @@ By creating a new SSH key between Github and ieng6, we can access Github through
 ![image](https://user-images.githubusercontent.com/103202818/167040938-f81ff4a3-52ca-45f6-9c3a-8bf51c02dec4.png)
 ![image](https://user-images.githubusercontent.com/103202818/167040945-3cfb6f1d-6f5a-4a2a-a4b1-d5dc3191d4bb.png)
 
-the [link](https://github.com/jadechng/test) to the the resulting commit. There is now a new a.txt file.
+the [link](https://github.com/jadechng/test/commit/a20bfc088573a2817c2bf36732932e88bfed826f) to the the resulting commit. There is now a new a.txt file.
 
 ***
 
