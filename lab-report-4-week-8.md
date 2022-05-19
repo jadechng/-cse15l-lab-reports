@@ -15,7 +15,7 @@ In this Lab Report, I tested my implementation of mardown-parse and the implemen
 [`code]`](ucsd.edu)
 ```
 For the first snippet, the expected code output should be: 
-```[`google.com,google.com,ucsd.edu]```
+[`google.com,google.com,ucsd.edu]
 
 ### My implementation
 Screenshot of code in `MarkdownParseTest.java` to test: 
@@ -25,7 +25,7 @@ My implementation's output:
 ![image](https://user-images.githubusercontent.com/103202818/169407530-3515f204-1ba2-4bb4-b4e5-586294565c5a.png)
 As you can see, my implementation did not pass as it did not consider "ucsd.com" as a link and considered "url.com".
 
-## Implementation I reviewed
+### Implementation I reviewed
 
 Screenshot of code in `MarkdownParseTest.java` to test: 
 ![image](https://user-images.githubusercontent.com/103202818/169418755-f67828c0-01d6-4ec8-be68-713176d7d398.png)
