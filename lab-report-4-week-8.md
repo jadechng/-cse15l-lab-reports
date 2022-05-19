@@ -96,7 +96,7 @@ Implementation I reviewed in week 7:
 ![image](https://user-images.githubusercontent.com/103202818/169413222-3b70212c-edd6-4901-a5dd-ce4e93b27f3b.png)
 As you can see, it did not pass as it resulted in an StringIndexOutOfBoundsException. 
 
-* for my program, I believe that only a small code change would be suffcient to fix this issue as I would only need to consider the case that there is a line break in the link text. Morevover,  I beleive the fixed code from the above snippet would be able to fix the issue of the link not containing a closing parenthesis
+* for my program, I believe that only a small code change would be suffcient to fix this issue as I would only need to consider the case that there is a line break in the link text. Morevover,  I beleive the fixed code from the above snippet would be able to fix the issue of the link not containing a closing parentheses
 
 ***
 
