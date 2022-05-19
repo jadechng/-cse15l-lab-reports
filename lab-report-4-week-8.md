@@ -54,7 +54,7 @@ Implementation I reviewed in week 7:
 ![image](https://user-images.githubusercontent.com/103202818/169410707-60d98b56-7150-4e33-a233-d1880b593431.png)
 As you can see, it did not pass as it resulted in an infinite loop. 
 
-* For my program, I beleive that a small code change would be needed to fix this issue. An if condition that I would include would be to consider the case that if there is more then one open-braket/parantheses and to look for its matching closed-bracket 
+* For my program, I beleive that a small code change would be needed to fix this issue. An if condition that I would include would be to consider the case that if there is more then one open-braket/parantheses and to look for its matching closed-bracket/parantheses.
 ***
 
 ## Snippet 3
