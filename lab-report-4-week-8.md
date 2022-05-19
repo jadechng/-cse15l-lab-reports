@@ -47,7 +47,7 @@ As you can see, it did not pass as it considered "url.com" as a valid link and d
 [some escaped \[ brackets \]](example.com)
 ```
 For the second snippet, the expected code output should be: 
-```[a.com,a.com(()),example.com]```
+[a.com,a.com(()),example.com]
 
 ### My implementation
 
@@ -98,7 +98,7 @@ And then there's more text
 
 ### My implementation
 For the third snippet, the expected code output should be: 
-```[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]```
+[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
 
 Screenshot of code in `MarkdownParseTest.java` to test: 
 ![image](https://user-images.githubusercontent.com/103202818/169411664-d07c2178-476b-4528-ab1a-1f016717568b.png)
